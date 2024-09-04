@@ -1,0 +1,8 @@
+body {
+  width: 99%;
+  padding: 2px;
+  box-sizing: content-box;
+  box-shadow: inset -5px -5px 10px gray;
+  border: 1px solid #ccc;
+  color: #060404;
+}
